@@ -12,6 +12,7 @@ extension UIViewController {
         }
         alertController.addTextField { (textField) in
             textField.placeholder = placeholder
+            textField.autocapitalizationType = .words
         }
         
         let alertCancalButton = UIAlertAction(title: "Cancel", style: .cancel, handler: nil)

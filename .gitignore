@@ -89,3 +89,8 @@ fastlane/test_output
 
 iOSInjectionProject/
 /.DS_Store
+/Pods/.DS_Store
+/WeatherAPP2.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+/WeatherAPP2.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+/WeatherAPP2.xcworkspace/contents.xcworkspacedata
+/WeatherAPP2.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
